@@ -47,7 +47,7 @@ module.exports = {
   `,
   // 赞助商广告
   sidebarT: `
-  <a href="https://mp.weixin.qq.com/s/ayVC1QjJQcHQybczrxTY0A" target="_blank">
+  <a href="https://mp.weixin.qq.com/s/Y89jLB-ep-cYfv5BG1r5uw" target="_blank">
     <img src="https://11laile-note-img.oss-cn-beijing.aliyuncs.com/1705922099587.png" alt="npm" style="width: 130px; border-radius: 5px; box-shadow: 0 0 0 2px rgb(6 6 6 / 80%);">
     <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">(公众号每日分享大厂面试)</p>
   </a>
