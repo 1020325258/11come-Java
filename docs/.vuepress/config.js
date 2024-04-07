@@ -54,7 +54,8 @@ module.exports = {
               { text: 'Java并发编程', link: '/pages/9eee62/' },
               { text: 'Java网络编程', link: '/pages/0d7ff8/' },
               { text: 'Java基础面试题', link: '/pages/8db288/' },
-              { text: '面试突击', link: '/pages/dcd014/' },
+              { text: '面试突击-上', link: '/pages/dcd014/' },
+              { text: '面试突击-下', link: '/pages/9fbb8a/' },
             ]
           },
           {
@@ -81,7 +82,8 @@ module.exports = {
               { text: '深入理解Dubbo系列', link: '/pages/4eecb5/' },
               { text: '深入理解ZooKeeper系列', link: '/pages/8972df/' },
               { text: 'Netty面试题', link: '/pages/e6a6b9/' },
-              
+              { text: 'RocketMQ核心内容', link: '/pages/5019e0/' },
+              { text: '基于电商场景的高并发RocketMQ实战', link: '/pages/4a7385/' },
             ]
           },
         ]
