@@ -1,6 +1,6 @@
 
 <p align="center"><a href="http://11come.penetrate.cn:8080/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://11laile-note-img.oss-cn-beijing.aliyuncs.com/logo.png" alt="logo"></a></p>
-![logo](https://11laile-note-img.oss-cn-beijing.aliyuncs.com/logo.png)
+
 
 <h2 align="center">11来了</h2>
 
