@@ -37,8 +37,8 @@ postList: none
 <p align="center">
   <!-- <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/v/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a> -->
   <!-- <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" class="no-zoom"></a> -->
-  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/1020325258/11come-Java' alt='GitHub stars' class="no-zoom"></a>
-  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/1020325258/11come-Java' alt='GitHub forks' class="no-zoom"></a>
+  <a href="https://github.com/xugaoyi/1020325258/11come-Java" target="_blank"><img src='https://img.shields.io/github/stars/1020325258/11come-Java' alt='GitHub stars' class="no-zoom"></a>
+  <a href="https://github.com/xugaoyi/1020325258/11come-Java" target="_blank"><img src='https://img.shields.io/github/forks/1020325258/11come-Java' alt='GitHub forks' class="no-zoom"></a>
 </p>
 
 <!-- <br/>
