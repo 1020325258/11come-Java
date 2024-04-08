@@ -24,29 +24,29 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
 
-      {
-        text: '指南', link: '/pages/a2f161/', items: [
-          { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
-          { text: '介绍', link: '/pages/a2f161/' },
-          { text: '快速上手', link: '/pages/793dcb/' },
-          { text: '目录结构', link: '/pages/2f674a/' },
-          { text: '核心配置和约定', link: '/pages/33d574/' },
-          { text: '自动生成front matter', link: '/pages/088c16/' },
-          { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
-          { text: 'Markdown 中使用组件', link: '/pages/197691/' },
-          {
-            text: '相关文章', items: [
-              { text: '使目录栏支持h2~h6标题', link: '/pages/8dfab5/' },
-              { text: '如何让你的笔记更有表现力', link: '/pages/dd027d/' },
-              { text: '批量操作front matter工具', link: '/pages/2b8e22/' },
-              { text: '部署', link: '/pages/0fc1d2/' },
-              { text: '关于写文章和H1标题', link: '/pages/9ae0bd/' },
-              { text: '关于博客搭建与管理', link: '/pages/26997d/' },
-              { text: '在线编辑和新增文章的方法', link: '/pages/c5a54d/' },
-            ]
-          }
-        ]
-      },
+      // {
+      //   text: '指南', link: '/pages/a2f161/', items: [
+      //     { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
+      //     { text: '介绍', link: '/pages/a2f161/' },
+      //     { text: '快速上手', link: '/pages/793dcb/' },
+      //     { text: '目录结构', link: '/pages/2f674a/' },
+      //     { text: '核心配置和约定', link: '/pages/33d574/' },
+      //     { text: '自动生成front matter', link: '/pages/088c16/' },
+      //     { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
+      //     { text: 'Markdown 中使用组件', link: '/pages/197691/' },
+      //     {
+      //       text: '相关文章', items: [
+      //         { text: '使目录栏支持h2~h6标题', link: '/pages/8dfab5/' },
+      //         { text: '如何让你的笔记更有表现力', link: '/pages/dd027d/' },
+      //         { text: '批量操作front matter工具', link: '/pages/2b8e22/' },
+      //         { text: '部署', link: '/pages/0fc1d2/' },
+      //         { text: '关于写文章和H1标题', link: '/pages/9ae0bd/' },
+      //         { text: '关于博客搭建与管理', link: '/pages/26997d/' },
+      //         { text: '在线编辑和新增文章的方法', link: '/pages/c5a54d/' },
+      //       ]
+      //     }
+      //   ]
+      // },
       {
         text: '后端开发', link: '/pages/9eee62/', items: [
           {
@@ -94,20 +94,33 @@ module.exports = {
         ]
       },
       {
-        text: '配置', link: '/pages/a20ce8/', items: [
-          { text: '主题配置', link: '/pages/a20ce8/' },
-          { text: '首页配置', link: '/pages/f14bdb/' },
-          { text: 'front matter配置', link: '/pages/3216b0/' },
-          { text: '目录页配置', link: '/pages/54651a/' },
-          { text: '添加摘要', link: '/pages/1cc523/' },
-          { text: '修改主题颜色和样式', link: '/pages/f51918/' },
-          { text: '评论栏', link: '/pages/ce175c/' },
+        text: '大厂面试', link: '/pages/91ee86/', items: [
+          { text: '01.哔哩哔哩后端面试', link: '/pages/91ee86/' },
+          { text: '02.滴滴后端一面', link: '/pages/c549c7/' },
+          { text: '03.字节后端日常实习一面', link: '/pages/293b73/' },
+          { text: '04.掌上先机后端面试', link: '/pages/79252a/' },
+          { text: '05.滴滴后端二面', link: '/pages/b61ebe/' },
+          { text: '06.快手后端一面', link: '/pages/297ce1/' },
+          { text: '07.淘天提前批面试', link: '/pages/747af2/' },
+          { text: '08.腾讯音乐校招Java后端一面', link: '/pages/522e9c/' },
+          { text: '09.饿了么一面', link: '/pages/013716/' },
         ]
       },
-      { text: '资源', link: '/pages/db78e2/' },
-      { text: '案例', link: '/pages/5d571c/' },
-      { text: '问答', link: '/pages/9cc27d/' },
-      { text: '赞助', link: '/pages/1b12ed/' },
+      // {
+      //   text: '配置', link: '/pages/a20ce8/', items: [
+      //     { text: '主题配置', link: '/pages/a20ce8/' },
+      //     { text: '首页配置', link: '/pages/f14bdb/' },
+      //     { text: 'front matter配置', link: '/pages/3216b0/' },
+      //     { text: '目录页配置', link: '/pages/54651a/' },
+      //     { text: '添加摘要', link: '/pages/1cc523/' },
+      //     { text: '修改主题颜色和样式', link: '/pages/f51918/' },
+      //     { text: '评论栏', link: '/pages/ce175c/' },
+      //   ]
+      // },
+      // { text: '资源', link: '/pages/db78e2/' },
+      // { text: '案例', link: '/pages/5d571c/' },
+      // { text: '问答', link: '/pages/9cc27d/' },
+      // { text: '赞助', link: '/pages/1b12ed/' },
 
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
