@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/logo.png
 heroText: 11来了
-tagline: 记录Java后端开发技术栈，包含并发、网络、JVM、MySQL、Redis、Redisson、RocketMQ、Dubbo、Netty等内容
+tagline: 整理Java后端开发技术栈，包含并发、网络、JVM、MySQL、Redis、Redisson、RocketMQ、Dubbo、Netty等内容
 actionText: 开始使用 →
 actionLink: /pages/9eee62/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量

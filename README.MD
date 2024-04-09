@@ -1,9 +1,11 @@
 
-<p align="center"><a href="http://11come.penetrate.cn:8080/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://11laile-note-img.oss-cn-beijing.aliyuncs.com/logo.png" alt="logo"></a></p>
+<p align="center"><a href="http://11come.penetrate.cn:8080/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://11laile-note-img.oss-cn-beijing.aliyuncs.com/logo-17126321753331.png" alt="logo"></a></p>
 
 
 <h2 align="center">11来了</h2>
+网站地址：http://11come.penetrate.cn:8080 [点击进入➡](http://11come.penetrate.cn:8080/)
 
+![image-20240409111137870](https://11laile-note-img.oss-cn-beijing.aliyuncs.com/image-20240409111137870.png)
 文档基于 vdoing 搭建，本地运行流程：
 ```bash
 # 克隆项目
