@@ -3,7 +3,7 @@
 
 
 <h2 align="center">11来了</h2>
-<h3 align="center">网站地址：http://11come.penetrate.cn:8080</h3>
+<h3 align="center">网站地址：http://11come.cn</h3>
 
 ![image-20240409111137870](https://11laile-note-img.oss-cn-beijing.aliyuncs.com/image-20240409111137870.png)
 文档基于 vdoing 搭建，本地运行流程：
