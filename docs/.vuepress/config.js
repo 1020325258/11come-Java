@@ -181,7 +181,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2024, // 博客创建年份
-      copyrightInfo: '11来了', // 博客版权信息，支持a标签
+      copyrightInfo: '11来了版权所有 | <a href="http://beian.miit.gov.cn">豫ICP备2024063529号-1</a>', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
