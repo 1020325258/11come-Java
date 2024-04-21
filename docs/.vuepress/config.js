@@ -54,8 +54,10 @@ module.exports = {
               { text: 'Java并发编程', link: '/pages/9eee62/' },
               { text: 'Java网络编程', link: '/pages/0d7ff8/' },
               { text: 'Java基础面试题', link: '/pages/8db288/' },
-              { text: '面试突击-上', link: '/pages/dcd014/' },
               { text: '面试突击-下', link: '/pages/9fbb8a/' },
+              { text: '面试突击-上', link: '/pages/dcd014/' },
+              { text: 'AQS源码分析', link: '/pages/63d524/' },
+              { text: 'ConcurrentHashMap源码分析', link: '/pages/02a13e/' },
             ]
           },
           {
