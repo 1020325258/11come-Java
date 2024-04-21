@@ -51,48 +51,70 @@ module.exports = {
         text: '后端开发', link: '/pages/9eee62/', items: [
           {
             text: 'Java并发编程', items: [
-              { text: 'Java并发编程', link: '/pages/9eee62/' },
-              { text: 'Java网络编程', link: '/pages/0d7ff8/' },
-              { text: 'Java基础面试题', link: '/pages/8db288/' },
-              { text: '面试突击-下', link: '/pages/9fbb8a/' },
-              { text: '面试突击-上', link: '/pages/dcd014/' },
-              { text: 'AQS源码分析', link: '/pages/63d524/' },
-              { text: 'ConcurrentHashMap源码分析', link: '/pages/02a13e/' },
+              { text: '01.Java并发编程', link: '/pages/9eee62/' },
+              { text: '02.Java网络编程', link: '/pages/0d7ff8/' },
+              { text: '03.Java基础面试题', link: '/pages/8db288/' },
+              { text: '04.面试突击-下', link: '/pages/9fbb8a/' },
+              { text: '05.面试突击-上', link: '/pages/dcd014/' },
+              { text: '06.AQS源码分析', link: '/pages/63d524/' },
+              { text: '07.ConcurrentHashMap源码分析', link: '/pages/02a13e/' },
             ]
           },
           {
             text: 'JVM虚拟机', items: [
-              { text: 'JVM虚拟机', link: '/pages/2b4756/' },
+              { text: '01.JVM虚拟机', link: '/pages/2b4756/' },
             ]
           },
           {
             text: 'MySQL', items: [
-              { text: 'MySQL高手实战', link: '/pages/7081ac/' },
-              { text: 'MySQL面试题', link: '/pages/0d7ff8/' }
+              { text: '01.MySQL面试题', link: '/pages/0d7ff8/' },
+              { text: '02.MySQL高手实战', link: '/pages/7081ac/' }
             ]
           },
           {
             text: 'Redis', items: [
-              { text: '基于电商场景的高并发Redis实战', link: '/pages/ef36f3/' },
-              { text: 'Redis面试题', link: '/pages/bb249b/' },
-              { text: 'Redisson分布式锁源码分析', link: '/pages/3a36be/' },
-              { text: 'Redisson分布式锁源码分析', link: '/pages/0ec929/' }
+              { text: '01.基于电商场景的高并发Redis实战', link: '/pages/ef36f3/' },
+              { text: '02.Redis面试题', link: '/pages/bb249b/' },
+              { text: '03.Redisson分布式锁源码分析', link: '/pages/3a36be/' },
+              { text: '04.Redis功能使用示例', link: '/pages/0ec929/' }
             ]
           },
           {
-            text: '中间件', items: [
-              { text: '深入理解Dubbo系列', link: '/pages/4eecb5/' },
-              { text: '深入理解ZooKeeper系列', link: '/pages/8972df/' },
-              { text: 'Netty面试题', link: '/pages/e6a6b9/' },
-              { text: 'RocketMQ核心内容', link: '/pages/5019e0/' },
-              { text: '基于电商场景的高并发RocketMQ实战', link: '/pages/4a7385/' },
+            text: 'Dubbo', items: [
+              { text: '01.深入理解Dubbo系列', link: '/pages/4eecb5/' },
+            ]
+          },
+          {
+            text: '注册中心', items: [
+              { text: '01.深入理解ZooKeeper系列', link: '/pages/8972df/' },
+            ]
+          },
+          {
+            text: '消息队列', items: [
+              { text: '01.RocketMQ核心内容', link: '/pages/5019e0/' },
+              { text: '02.基于电商场景的高并发RocketMQ实战', link: '/pages/4a7385/' },
+            ]
+          },
+          {
+            text: 'Netty', items: [
+              { text: '01.Netty面试题', link: '/pages/e6a6b9/' },
+            ]
+          },
+          {
+            text: '限流', items: [
+              { text: '01.RateLimiter限流原理', link: '/pages/be61cb/' },
+            ]
+          },
+          {
+            text: 'Linux', items: [
+              { text: '01.常用Linux命令', link: '/pages/c9d7ee/' },
             ]
           },
         ]
       },
       {
         text: '项目亮点', link: '/pages/e23511/', items: [
-          { text: '高并发在简历上如何体现？', link: '/pages/e23511/' },
+          { text: '01.高并发在简历上如何体现？', link: '/pages/e23511/' },
         ]
       },
       {
