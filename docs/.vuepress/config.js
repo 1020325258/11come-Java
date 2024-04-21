@@ -101,13 +101,15 @@ module.exports = {
             ]
           },
           {
-            text: '限流', items: [
-              { text: '01.RateLimiter限流原理', link: '/pages/be61cb/' },
+            text: 'Linux', items: [
+              { text: '01.常用Linux命令', link: '/pages/c9d7ee/' },
             ]
           },
           {
-            text: 'Linux', items: [
-              { text: '01.常用Linux命令', link: '/pages/c9d7ee/' },
+            text: '限流&熔断', items: [
+              { text: '01.RateLimiter限流原理', link: '/pages/be61cb/' },
+              { text: '02.Sentinel基本使用（转载）', link: '/pages/daa044/' },
+              
             ]
           },
         ]
