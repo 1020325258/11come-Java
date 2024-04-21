@@ -17,7 +17,9 @@ cnpm install 或 npm install
 npm run dev:win 
 ```
 
-网站搭建模板：vdoing
+
+
+网站搭建模板：vdoing（vuepress）
 
 [在线文档(国内源)](https://doc.xugaoyi.com/)
 
