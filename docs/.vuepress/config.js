@@ -115,8 +115,14 @@ module.exports = {
         // ]
       },
       {
-        text: '项目亮点', link: '/pages/e23511/', items: [
-          { text: '01.高并发在简历上如何体现？', link: '/pages/e23511/' },
+        text: '推荐阅读', link: '/pages/e23511/', items: [
+          { text: '简历优化', link: '/pages/d11814/', items: [
+            { text: '01.高并发在简历上如何体现？', link: '/pages/e23511/' },
+          ]},
+          { text: '架构演变', link: '/pages/d11814/', items: [
+            { text: '01.B 站百亿数据百万查询——关系链架构演进', link: '/pages/d11814/' },
+          ]},
+          
         ]
       },
       {
