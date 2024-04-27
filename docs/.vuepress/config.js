@@ -121,6 +121,8 @@ module.exports = {
           ]},
           { text: '架构演变', link: '/pages/d11814/', items: [
             { text: '01.B 站百亿数据百万查询——关系链架构演进', link: '/pages/d11814/' },
+            { text: '02.会员购交易系统架构演进', link: '/pages/020bd4/' },
+            
           ]},
           
         ]
